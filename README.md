@@ -22,3 +22,9 @@
 ## Installation
 
 To gain acess to this application click on this link: https://github.com/BrianJomo/Quriousquest-Blog
+
+### Requirements
+
+* Either a computer,phone,tablet or an Ipad.
+
+* An access to the Internet.
