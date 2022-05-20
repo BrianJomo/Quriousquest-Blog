@@ -64,6 +64,9 @@ Use the following format to configure your local Postresql database: dialect+dri
 
 To explore the features of this news website navigate to this link on your browser or just click on this link: https://quriousquest.herokuapp.com/
 
+Login password:motive e-mail: motive@gmail.com
+
+
 ## Technology Used
 
 * Python - Which was used to structure and build the logic hence interactive with the client-side and server-side.
