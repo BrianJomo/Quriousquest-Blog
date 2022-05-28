@@ -62,7 +62,7 @@ $ python3.8 manage.py db upgrade
 
 Use the following format to configure your local Postresql database: dialect+driver://username:password@host:port/database
 
-To explore the features of this news website navigate to this link on your browser or just click on this link: https://quriousquest.herokuapp.com/
+To explore the features of this blog website navigate to this link on your browser or just click on this link: https://quriousquest.herokuapp.com/
 
 Login password:motive e-mail: motive@gmail.com
 
