@@ -83,7 +83,10 @@ Login password:motive e-mail: motive@gmail.com
 ## Reference
 
 * PEP 8 – Style Guide for Python.
+
 * Materialize CSS.
+
+* Flask documentation.
 
 ## Licence
 
