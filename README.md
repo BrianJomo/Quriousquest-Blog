@@ -38,7 +38,6 @@ git clone https://github.com/BrianJomo/Quriousquest-Blog.git
 and for SSH, use the following command;
 ```
 git clone git@github.com:BrianJomo/Quriousquest-Blog.git
-
 ```
 
 Then run the following commands in the terminal then run the manage.py file in order to run the web application.
